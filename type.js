@@ -7,7 +7,7 @@ console.log(typeof fullName);
 
 //  Type Of varibale= Number
 var age = 25;
-var phoneNumber = 01728336395;
+var phoneNumber = +8801728336395;
 var price = 500;
 
 console.log(typeof age);
